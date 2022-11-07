@@ -16,12 +16,6 @@ No specific imports are used in this program.
 
 ---
 
-## Results
-
-Please refer below for deployment of smart contract on a local test chain:
-
-
----
 ## Contributors
 
 Thank you for Eric Cardena for teaching Rice's FinTech Boot Camp. He was instrumental in teaching and helping us understand this material. Thank you for Rice for preparing this curriculum and the corresponding data sets that are required to be used. 
